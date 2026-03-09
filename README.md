@@ -148,7 +148,3 @@ The extension rotates through the following browser User-Agents:
 This tool is intended for authorised security testing and reconnaissance only. Always ensure you have explicit permission before testing any target. The author is not responsible for any misuse of this tool.
 
 ---
-
-## License
-
-MIT License  see [LICENSE](LICENSE) for details.
